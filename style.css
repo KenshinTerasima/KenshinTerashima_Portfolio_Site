@@ -186,11 +186,6 @@ main {
     color: #FFC107 ;
 }
 
-main p {
-    text-align: center;
-    letter-spacing: 10px;
-    margin-top: -50px; /* マージンの修正 */
-  }
 
   @media screen and (max-width: 768px) {
     main {
